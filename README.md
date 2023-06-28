@@ -63,7 +63,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +80,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/Simcra/stm32-phonebooth.svg?style=for-the-badge
 [issues-url]: https://github.com/Simcra/stm32-phonebooth/issues
 [license-shield]: https://img.shields.io/github/license/Simcra/stm32-phonebooth.svg?style=for-the-badge
-[license-url]: https://github.com/Simcra/stm32-phonebooth/blob/main/LICENSE
+[license-url]: https://github.com/Simcra/stm32-phonebooth/blob/main/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
