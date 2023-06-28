@@ -77,8 +77,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![STM32CubeMX][STMicroelectronics]][STM32CubeMX-url]
-* [![C][CLang]][CLang-url]
+* [![CProgrammingLanguage][CProgrammingLanguage]][CProgrammingLanguage-url]
+* [![STM32CubeMX][STM32CubeMX]][STM32CubeMX-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,7 +205,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/simcra/stm32-phonebooth.svg?style=for-the-badge
 [license-url]: https://github.com/simcra/stm32-phonebooth/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[CLang]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
-[CLang-url]: https://en.cppreference.com/w/c/language
-[STMicroelectronics]: https://img.shields.io/badge/stmicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
+[CProgrammingLanguage]: https://img.shields.io/badge/C-Programming-Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[CProgrammingLanguage-url]: https://en.cppreference.com/w/c/language
+[STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
