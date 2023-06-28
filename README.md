@@ -77,7 +77,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![STM32CubeMX][STM32CubeMX]][STM32CubeMX-url]
-* [![CLion][CLion]][CLion-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,5 +205,3 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [product-screenshot]: images/screenshot.png
 [STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
-[CLion]: https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion
-[CLion-url]: https://www.jetbrains.com/clion/
