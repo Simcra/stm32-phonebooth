@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/simcra/stm32-phonebooth"></a>
+  <a href="https://github.com/Simcra/stm32-phonebooth"></a>
 
 <h3 align="center">STM32 Phonebooth</h3>
 
@@ -71,16 +71,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/simcra/stm32-phonebooth.svg?style=for-the-badge
-[contributors-url]: https://github.com/simcra/stm32-phonebooth/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/simcra/stm32-phonebooth.svg?style=for-the-badge
-[forks-url]: https://github.com/simcra/stm32-phonebooth/network/members
-[stars-shield]: https://img.shields.io/github/stars/simcra/stm32-phonebooth.svg?style=for-the-badge
-[stars-url]: https://github.com/simcra/stm32-phonebooth/stargazers
-[issues-shield]: https://img.shields.io/github/issues/simcra/stm32-phonebooth.svg?style=for-the-badge
-[issues-url]: https://github.com/simcra/stm32-phonebooth/issues
-[license-shield]: https://img.shields.io/github/license/simcra/stm32-phonebooth.svg?style=for-the-badge
-[license-url]: https://github.com/simcra/stm32-phonebooth/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[contributors-url]: https://github.com/Simcra/stm32-phonebooth/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[forks-url]: https://github.com/Simcra/stm32-phonebooth/network/members
+[stars-shield]: https://img.shields.io/github/stars/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[stars-url]: https://github.com/Simcra/stm32-phonebooth/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[issues-url]: https://github.com/Simcra/stm32-phonebooth/issues
+[license-shield]: https://img.shields.io/github/license/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[license-url]: https://github.com/Simcra/stm32-phonebooth/blob/main/LICENSE
 [product-screenshot]: images/screenshot.png
 [STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
