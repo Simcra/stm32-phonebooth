@@ -13,23 +13,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/simcra/stm32-phonebooth">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Simcra/stm32-phonebooth">
+    <!--<img src="images/logo.png" alt="Logo" width="80" height="80">-->
   </a>
 
 <h3 align="center">STM32 Phonebooth</h3>
 
   <p align="center">
-    STM32 Microcontroller code to prompt guests and record messages from a vintage telephone.
+    STM32 Microcontroller code to facilitate digital recording of messages using a vintage telephone.
     <br />
-    <a href="https://github.com/simcra/stm32-phonebooth"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Simcra/stm32-phonebooth"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/simcra/stm32-phonebooth">View Demo</a>
+    <a href="https://github.com/Simcra/stm32-phonebooth">View Demo</a>
     ·
-    <a href="https://github.com/simcra/stm32-phonebooth/issues">Report Bug</a>
+    <a href="https://github.com/Simcra/stm32-phonebooth/issues">Report Bug</a>
     ·
-    <a href="https://github.com/simcra/stm32-phonebooth/issues">Request Feature</a>
+    <a href="https://github.com/Simcra/stm32-phonebooth/issues">Request Feature</a>
   </p>
 </div>
 
@@ -171,9 +171,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Simon Crawley - simon.p.crawley@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Simcra/stm32-phonebooth](https://github.com/Simcra/stm32-phonebooth)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,16 +192,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/simcra/stm32-phonebooth.svg?style=for-the-badge
-[contributors-url]: https://github.com/simcra/stm32-phonebooth/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/simcra/stm32-phonebooth.svg?style=for-the-badge
-[forks-url]: https://github.com/simcra/stm32-phonebooth/network/members
-[stars-shield]: https://img.shields.io/github/stars/simcra/stm32-phonebooth.svg?style=for-the-badge
-[stars-url]: https://github.com/simcra/stm32-phonebooth/stargazers
-[issues-shield]: https://img.shields.io/github/issues/simcra/stm32-phonebooth.svg?style=for-the-badge
-[issues-url]: https://github.com/simcra/stm32-phonebooth/issues
-[license-shield]: https://img.shields.io/github/license/simcra/stm32-phonebooth.svg?style=for-the-badge
-[license-url]: https://github.com/simcra/stm32-phonebooth/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[contributors-url]: https://github.com/Simcra/stm32-phonebooth/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[forks-url]: https://github.com/Simcra/stm32-phonebooth/network/members
+[stars-shield]: https://img.shields.io/github/stars/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[stars-url]: https://github.com/Simcra/stm32-phonebooth/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[issues-url]: https://github.com/Simcra/stm32-phonebooth/issues
+[license-shield]: https://img.shields.io/github/license/Simcra/stm32-phonebooth.svg?style=for-the-badge
+[license-url]: https://github.com/Simcra/stm32-phonebooth/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
