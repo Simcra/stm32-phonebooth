@@ -206,5 +206,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [product-screenshot]: images/screenshot.png
 [STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
-[CLion]: https://img.shields.io/badge/CLion-21D789?style=for-the-badge&logo=clion&logoColor=black
+[CLion]: https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion
 [CLion-url]: https://www.jetbrains.com/clion/
