@@ -1,1 +1,1 @@
-# stm32-phonebooth
+# STM32 Microcontroller code for the phonebooth
