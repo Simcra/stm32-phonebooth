@@ -7,7 +7,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -205,7 +204,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/simcra/stm32-phonebooth.svg?style=for-the-badge
 [license-url]: https://github.com/simcra/stm32-phonebooth/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[CProgrammingLanguage]: https://img.shields.io/badge/C-Programming-Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[CProgrammingLanguage]: https://img.shields.io/badge/C_Programming_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white
 [CProgrammingLanguage-url]: https://en.cppreference.com/w/c/language
 [STM32CubeMX]: https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white
 [STM32CubeMX-url]: https://www.st.com/en/development-tools/stm32cubemx.html
