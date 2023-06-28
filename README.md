@@ -19,6 +19,15 @@
 
   <p align="center">
     STM32 Microcontroller code to facilitate digital recording of messages using a vintage telephone.
+    <br />
+    <a href="https://github.com/Simcra/stm32-phonebooth"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/Simcra/stm32-phonebooth">View Demo</a>
+    ·
+    <a href="https://github.com/Simcra/stm32-phonebooth/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/Simcra/stm32-phonebooth/issues">Request Feature</a>
   </p>
 </div>
 
